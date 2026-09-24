@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Daniel!</h3>
 
 <p align="center">
-  <a href="https://www.danielrb.netlify.app">Website</a> •
+  <a href="https://danielrb.netlify.app">Website</a> •
   <a href="https://www.linkedin.com/in/danielrb0">LinkedIn</a>
 </p>
 
